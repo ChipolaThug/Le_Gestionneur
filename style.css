@@ -1,0 +1,17 @@
+#BordCanvas{
+    border-style: dashed solid;
+    color: grey;
+    width:1114;
+    height:605;
+    display: inline-block; 
+}
+
+#BtnChangePage{
+    border-style: dashed solid;
+    width:50;
+    height:20;
+    float: right;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}

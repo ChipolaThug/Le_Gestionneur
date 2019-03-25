@@ -1,0 +1,38 @@
+#DivCanvas{
+    border-style: dashed solid;
+    color: red;
+    width:48%;
+    height:100%;
+    display: block; 
+    float:left;
+}
+
+#PartieInfo{
+    border-style: dashed solid;
+    width:50%;
+    height:100%;
+    display: inline-block; 
+    color: blue;
+}
+
+#BtnChangeType{
+    position: relative;
+    top: 40;
+    left: 220;
+    border-style: dashed solid;
+    width:50;
+    height:20;
+    float:left;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#EcranStats{
+    position: relative;
+    top: 100;
+    left: 40;
+    border-style: dashed solid;
+    width:400;
+    height:400;
+}

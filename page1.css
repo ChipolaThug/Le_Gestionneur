@@ -1,0 +1,43 @@
+#DivCanvas{
+    border-style: dashed solid;
+    color: red;
+    width:72%;
+    height:100%;
+    display: block; 
+    float:left;
+
+}
+
+#PartieGestion{
+    border-style: dashed solid;
+    width:26%;
+    height:100%;
+    display: inline-block; 
+    color: blue;
+}
+
+#BtnLum{
+    position: relative;
+    top: 40;
+    left: 120;
+    border-style: dashed solid;
+    width:50;
+    height:20;
+    float:left;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#BtnChauf{
+    position: relative;
+    top: 40;
+    left: 120;
+    border-style: dashed solid;
+    width:50;
+    height:20;
+    float:left;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
